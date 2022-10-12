@@ -1,4 +1,8 @@
-oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2022103221 3600 7200 604800 86400
+oz.			86400	IN	SOA	ns10.opennic.glue. dns.bambusoft.com. 2022103224 3600 7200 604800 86400
+oz.			86400	IN	TXT	"OpenNIC oz Zone"
+oz.			86400	IN	AAAA	2a03:b0c0:0:1010::13f:6001
+oz.			86400	IN	A	188.226.146.136
+oz.			86400	IN	RP	dns.bambusoft.com. .
 oz.			86400	IN	NS	ns2.opennic.glue.
 oz.			86400	IN	NS	ns3.opennic.glue.
 oz.			86400	IN	NS	ns4.opennic.glue.
@@ -9,10 +13,6 @@ oz.			86400	IN	NS	ns9.opennic.glue.
 oz.			86400	IN	NS	ns10.opennic.glue.
 oz.			86400	IN	NS	ns11.opennic.glue.
 oz.			86400	IN	NS	ns12.opennic.glue.
-oz.			86400	IN	RP	dns.bambusoft.com. .
-oz.			86400	IN	A	188.226.146.136
-oz.			86400	IN	AAAA	2a03:b0c0:0:1010::13f:6001
-oz.			86400	IN	TXT	"OpenNIC oz Zone"
 0byte.oz.		86400	IN	NS	ggg.zerobyte.link.
 0byte.oz.		86400	IN	NS	gggg.zerobyte.link.
 123.oz.			86400	IN	NS	ns1.123.oz.
@@ -445,8 +445,8 @@ lnk.oz.			86400	IN	NS	ns1.digitalocean.com.
 lnk.oz.			86400	IN	NS	ns2.digitalocean.com.
 localbitcoins.oz.	86400	IN	NS	ns1.elencasino.name.
 localbitcoins.oz.	86400	IN	NS	ns2.elencasino.name.
-localhost.oz.		86400	IN	A	127.0.0.1
 localhost.oz.		86400	IN	AAAA	::1
+localhost.oz.		86400	IN	A	127.0.0.1
 locamation.oz.		86400	IN	NS	ns1.openprovider.nl.
 locamation.oz.		86400	IN	NS	ns2.openprovider.nl.
 loto.oz.		86400	IN	NS	ns1.elencasino.name.

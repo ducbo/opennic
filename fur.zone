@@ -1,4 +1,4 @@
-fur.			300	IN	SOA	ns15.nic.fur. furnic-operators.fellig.org. 766192 604800 86400 2419200 1200
+fur.			300	IN	SOA	ns15.nic.fur. furnic-operators.fellig.org. 766193 604800 86400 2419200 1200
 fur.			300	IN	NS	ns2.opennic.glue.
 fur.			300	IN	NS	ns4.opennic.glue.
 fur.			300	IN	NS	ns8.nic.fur.
