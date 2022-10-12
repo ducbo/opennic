@@ -1,0 +1,313 @@
+dns.opennic.glue.	86400	IN	SOA	ns0.opennic.glue. root.opennic.glue. 2022101200 43200 7200 604800 86400
+dns.opennic.glue.	86400	IN	AAAA	2001:470:71:6dc::53
+dns.opennic.glue.	86400	IN	AAAA	2001:470:1f15:b80::53
+dns.opennic.glue.	86400	IN	AAAA	2001:550:9601::4
+dns.opennic.glue.	86400	IN	AAAA	2001:67c:13e4:1::37
+dns.opennic.glue.	86400	IN	AAAA	2001:8d8:1801:86e7::1
+dns.opennic.glue.	86400	IN	AAAA	2001:19f0:b001:379:5400:3ff:fe68:1cc6
+dns.opennic.glue.	86400	IN	AAAA	2001:41d0:404:200::976
+dns.opennic.glue.	86400	IN	AAAA	2001:41d0:700:1174::
+dns.opennic.glue.	86400	IN	AAAA	2001:4ba0:ffa4:1ce::
+dns.opennic.glue.	86400	IN	AAAA	2400:c400:1002:11:fed:bee0:4433:6fb0
+dns.opennic.glue.	86400	IN	AAAA	2603:c023:c002:f4aa:9e63:198d:9c4:cced
+dns.opennic.glue.	86400	IN	AAAA	2603:c023:c002:f4aa:a208:5df4:ee55:b70a
+dns.opennic.glue.	86400	IN	AAAA	2604:a880:0:1010::b:4001
+dns.opennic.glue.	86400	IN	AAAA	2604:ffc0::
+dns.opennic.glue.	86400	IN	AAAA	2a00:f48:2000:1007::1e:4969
+dns.opennic.glue.	86400	IN	AAAA	2a00:6800:3:4bd::1
+dns.opennic.glue.	86400	IN	AAAA	2a00:f826:8:1::254
+dns.opennic.glue.	86400	IN	AAAA	2a00:f826:8:2::195
+dns.opennic.glue.	86400	IN	AAAA	2a01:238:4231:5200::1
+dns.opennic.glue.	86400	IN	AAAA	2a01:4f8:c17:fa94::
+dns.opennic.glue.	86400	IN	AAAA	2a01:4f8:c2c:e789::
+dns.opennic.glue.	86400	IN	AAAA	2a01:4f8:1c0c:82c0::1
+dns.opennic.glue.	86400	IN	AAAA	2a01:4f9:2b:1305::2
+dns.opennic.glue.	86400	IN	AAAA	2a02:248:2:41c0:5054:ff:fe80:88
+dns.opennic.glue.	86400	IN	AAAA	2a03:f80:30:192:71:166:92:1
+dns.opennic.glue.	86400	IN	AAAA	2a03:4000:28:365::1
+dns.opennic.glue.	86400	IN	AAAA	2a03:4000:4d:c92:88c0:96ff:fec6:b9d
+dns.opennic.glue.	86400	IN	AAAA	2a03:94e0:1804::1
+dns.opennic.glue.	86400	IN	A	35.211.96.150
+dns.opennic.glue.	86400	IN	A	38.103.195.4
+dns.opennic.glue.	86400	IN	A	45.61.49.203
+dns.opennic.glue.	86400	IN	A	51.77.149.139
+dns.opennic.glue.	86400	IN	A	51.83.172.84
+dns.opennic.glue.	86400	IN	A	51.158.108.203
+dns.opennic.glue.	86400	IN	A	51.178.92.105
+dns.opennic.glue.	86400	IN	A	54.36.111.116
+dns.opennic.glue.	86400	IN	A	63.231.92.27
+dns.opennic.glue.	86400	IN	A	81.169.136.222
+dns.opennic.glue.	86400	IN	A	82.117.252.6
+dns.opennic.glue.	86400	IN	A	88.198.92.222
+dns.opennic.glue.	86400	IN	A	89.163.140.67
+dns.opennic.glue.	86400	IN	A	91.217.137.37
+dns.opennic.glue.	86400	IN	A	94.16.114.254
+dns.opennic.glue.	86400	IN	A	94.247.43.254
+dns.opennic.glue.	86400	IN	A	95.216.99.249
+dns.opennic.glue.	86400	IN	A	95.217.190.236
+dns.opennic.glue.	86400	IN	A	103.1.206.179
+dns.opennic.glue.	86400	IN	A	128.76.152.2
+dns.opennic.glue.	86400	IN	A	130.61.64.122
+dns.opennic.glue.	86400	IN	A	130.61.69.123
+dns.opennic.glue.	86400	IN	A	134.195.4.2
+dns.opennic.glue.	86400	IN	A	137.220.55.93
+dns.opennic.glue.	86400	IN	A	138.197.140.189
+dns.opennic.glue.	86400	IN	A	147.182.243.49
+dns.opennic.glue.	86400	IN	A	151.80.222.79
+dns.opennic.glue.	86400	IN	A	162.243.19.47
+dns.opennic.glue.	86400	IN	A	168.119.153.26
+dns.opennic.glue.	86400	IN	A	168.138.8.38
+dns.opennic.glue.	86400	IN	A	168.138.12.137
+dns.opennic.glue.	86400	IN	A	178.254.22.166
+dns.opennic.glue.	86400	IN	A	185.84.81.194
+dns.opennic.glue.	86400	IN	A	185.181.61.24
+dns.opennic.glue.	86400	IN	A	188.68.231.82
+dns.opennic.glue.	86400	IN	A	192.3.165.37
+dns.opennic.glue.	86400	IN	A	192.71.166.92
+dns.opennic.glue.	86400	IN	A	194.36.144.87
+dns.opennic.glue.	86400	IN	A	195.10.195.195
+dns.opennic.glue.	86400	IN	A	195.90.211.16
+dns.opennic.glue.	86400	IN	A	195.201.99.61
+dns.opennic.glue.	86400	IN	A	212.83.46.246
+dns.opennic.glue.	86400	IN	A	217.160.70.42
+dns.opennic.glue.	86400	IN	NS	ns1.by.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.ca.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.co.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.dk.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.fr.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.mi.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.no.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.ny.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.pl.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns1.esy.gr.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns2.au.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns2.fl.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns2.fr.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns2.mo.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns3.fi.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns4.au.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns4.ca.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns4.nj.us.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns4.pl.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns4.any.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns5.au.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns5.fi.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns5.ru.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns6.ca.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns7.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns8.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns8.fr.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns8.he.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns9.fr.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns11.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns12.ca.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns12.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns13.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns15.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns16.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns18.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns22.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns25.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns28.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns29.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns30.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns31.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns34.de.dns.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns0-3.opennic.glue.
+dns.opennic.glue.	86400	IN	NS	ns0-4.opennic.glue.
+dns.opennic.glue.	86400	IN	RP	julian.notes.geek. .
+dns.opennic.glue.	86400	IN	TXT	"OpenNIC Public DNS Server List"
+ns4.any.dns.opennic.glue. 86400	IN	TXT	"Location: anycast"
+ns4.any.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) anycast"
+ns4.any.dns.opennic.glue. 86400	IN	AAAA	2604:ffc0::
+ns4.any.dns.opennic.glue. 86400	IN	A	134.195.4.2
+ns2.au.dns.opennic.glue. 86400	IN	TXT	"Location: Sydney, NSW, AU"
+ns2.au.dns.opennic.glue. 86400	IN	LOC	37 48 50.397 S 144 57 47.944 E 0.00m 0.00m 100m 10m
+ns2.au.dns.opennic.glue. 86400	IN	AAAA	2400:c400:1002:11:fed:bee0:4433:6fb0
+ns2.au.dns.opennic.glue. 86400	IN	A	103.1.206.179
+ns4.au.dns.opennic.glue. 86400	IN	TXT	"Location: Melbourne, VIC, AU"
+ns4.au.dns.opennic.glue. 86400	IN	LOC	37 48 50.397 S 144 57 47.944 E 0.00m 0.00m 100m 10m
+ns4.au.dns.opennic.glue. 86400	IN	AAAA	2603:c023:c002:f4aa:a208:5df4:ee55:b70a
+ns4.au.dns.opennic.glue. 86400	IN	A	168.138.8.38
+ns5.au.dns.opennic.glue. 86400	IN	TXT	"Location: Melbourne, VIC, AU"
+ns5.au.dns.opennic.glue. 86400	IN	LOC	37 48 50.397 S 144 57 47.944 E 0.00m 0.00m 100m 10m
+ns5.au.dns.opennic.glue. 86400	IN	AAAA	2603:c023:c002:f4aa:9e63:198d:9c4:cced
+ns5.au.dns.opennic.glue. 86400	IN	A	168.138.12.137
+ns1.ca.dns.opennic.glue. 86400	IN	TXT	"Location: Toronto, 08, CA"
+ns1.ca.dns.opennic.glue. 86400	IN	LOC	43 42 0.401 N 79 24 58.672 W 0.00m 0.00m 100m 10m
+ns1.ca.dns.opennic.glue. 86400	IN	AAAA	2001:19f0:b001:379:5400:3ff:fe68:1cc6
+ns1.ca.dns.opennic.glue. 86400	IN	A	137.220.55.93
+ns12.ca.dns.opennic.glue. 86400	IN	TXT	"Location: Toronto, 08, CA"
+ns12.ca.dns.opennic.glue. 86400	IN	LOC	43 42 0.401 N 79 24 58.672 W 0.00m 0.00m 100m 10m
+ns12.ca.dns.opennic.glue. 86400	IN	A	138.197.140.189
+ns6.ca.dns.opennic.glue. 86400	IN	TXT	"Location: Toronto, 08, CA"
+ns6.ca.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Toronto, 08, CA"
+ns6.ca.dns.opennic.glue. 86400	IN	LOC	43 42 0.401 N 79 24 58.672 W 0.00m 0.00m 100m 10m
+ns6.ca.dns.opennic.glue. 86400	IN	A	45.61.49.203
+ns1.by.de.dns.opennic.glue. 86400 IN	TXT	"Location: Nuremberg, 02, DE"
+ns1.by.de.dns.opennic.glue. 86400 IN	LOC	48 1 52.967 N 12 10 55.956 E 0.00m 0.00m 100m 10m
+ns1.by.de.dns.opennic.glue. 86400 IN	AAAA	2a01:4f8:1c0c:82c0::1
+ns1.by.de.dns.opennic.glue. 86400 IN	A	88.198.92.222
+ns8.he.de.dns.opennic.glue. 86400 IN	TXT	"Location: Frankfurt, Germany"
+ns8.he.de.dns.opennic.glue. 86400 IN	TXT	"Log policy: (Anonymous) Frankfurt, Germany"
+ns8.he.de.dns.opennic.glue. 86400 IN	LOC	50 6 39.320 N 8 40 55.656 E 98.06m 10m 100m 10m
+ns8.he.de.dns.opennic.glue. 86400 IN	AAAA	2a00:f826:8:1::254
+ns8.he.de.dns.opennic.glue. 86400 IN	A	94.247.43.254
+ns1.de.dns.opennic.glue. 86400	IN	TXT	"Location: Limburg, DE"
+ns1.de.dns.opennic.glue. 86400	IN	LOC	48 1 52.967 N 12 10 55.956 E 0.00m 0.00m 100m 10m
+ns1.de.dns.opennic.glue. 86400	IN	AAAA	2001:41d0:700:1174::
+ns1.de.dns.opennic.glue. 86400	IN	A	54.36.111.116
+ns10.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, 02, DE"
+ns10.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns10.de.dns.opennic.glue. 86400	IN	AAAA	2603:c020:8002:31ff::2000
+ns10.de.dns.opennic.glue. 86400	IN	A	130.61.117.123
+ns11.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, DE"
+ns11.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns11.de.dns.opennic.glue. 86400	IN	AAAA	2a00:f48:2000:1007::1e:4969
+ns11.de.dns.opennic.glue. 86400	IN	A	212.83.46.246
+ns12.de.dns.opennic.glue. 86400	IN	TXT	"Location: Duesseldorf, DE"
+ns12.de.dns.opennic.glue. 86400	IN	LOC	51 13 18.198 N 6 46 34.175 E 0.00m 0.00m 100m 10m
+ns12.de.dns.opennic.glue. 86400	IN	AAAA	2a02:248:2:41c0:5054:ff:fe80:88
+ns12.de.dns.opennic.glue. 86400	IN	A	185.84.81.194
+ns13.de.dns.opennic.glue. 86400	IN	TXT	"Location: BadenBaden, 01, DE"
+ns13.de.dns.opennic.glue. 86400	IN	LOC	48 45 38.164 N 8 14 23.100 E 0.00m 0.00m 100m 10m
+ns13.de.dns.opennic.glue. 86400	IN	AAAA	2001:8d8:1801:86e7::1
+ns13.de.dns.opennic.glue. 86400	IN	A	217.160.70.42
+ns15.de.dns.opennic.glue. 86400	IN	TXT	"Location: DE"
+ns15.de.dns.opennic.glue. 86400	IN	A	195.90.211.16
+ns16.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, 02, DE"
+ns16.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns16.de.dns.opennic.glue. 86400	IN	AAAA	2a00:6800:3:4bd::1
+ns16.de.dns.opennic.glue. 86400	IN	A	178.254.22.166
+ns18.de.dns.opennic.glue. 86400	IN	TXT	"Location: Berlin, 16, DE"
+ns18.de.dns.opennic.glue. 86400	IN	LOC	52 31 27.726 N 13 24 37.908 E 0.00m 0.00m 100m 10m
+ns18.de.dns.opennic.glue. 86400	IN	AAAA	2a01:238:4231:5200::1
+ns18.de.dns.opennic.glue. 86400	IN	A	81.169.136.222
+ns22.de.dns.opennic.glue. 86400	IN	TXT	"Location: Duesseldorf, DE"
+ns22.de.dns.opennic.glue. 86400	IN	LOC	51 13 18.198 N 6 46 34.175 E 0.00m 0.00m 100m 10m
+ns22.de.dns.opennic.glue. 86400	IN	AAAA	2001:4ba0:ffa4:1ce::
+ns22.de.dns.opennic.glue. 86400	IN	A	89.163.140.67
+ns25.de.dns.opennic.glue. 86400	IN	TXT	"Location: Nuremberg, 02, DE"
+ns25.de.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Nuremberg, 02, DE"
+ns25.de.dns.opennic.glue. 86400	IN	LOC	48 1 52.967 N 12 10 55.956 E 0.00m 0.00m 100m 10m
+ns25.de.dns.opennic.glue. 86400	IN	AAAA	2a01:4f8:1c0c:82c0::1
+ns25.de.dns.opennic.glue. 86400	IN	A	88.198.92.222
+ns28.de.dns.opennic.glue. 86400	IN	TXT	"Location: Wiesbaden, 05, DE"
+ns28.de.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Wiesbaden, 05, DE"
+ns28.de.dns.opennic.glue. 86400	IN	LOC	50 4 57.290 N 8 14 57.552 E 0.00m 0.00m 100m 10m
+ns28.de.dns.opennic.glue. 86400	IN	AAAA	2a03:4000:28:365::1
+ns28.de.dns.opennic.glue. 86400	IN	A	94.16.114.254
+ns29.de.dns.opennic.glue. 86400	IN	TXT	"Location: Wiesbaden, 05, DE"
+ns29.de.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Wiesbaden, 05, DE"
+ns29.de.dns.opennic.glue. 86400	IN	LOC	50 4 57.290 N 8 14 57.552 E 0.00m 0.00m 100m 10m
+ns29.de.dns.opennic.glue. 86400	IN	AAAA	2a03:4000:4d:c92:88c0:96ff:fec6:b9d
+ns29.de.dns.opennic.glue. 86400	IN	A	194.36.144.87
+ns30.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, DE"
+ns30.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns30.de.dns.opennic.glue. 86400	IN	A	130.61.64.122
+ns31.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, 02, DE"
+ns31.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns31.de.dns.opennic.glue. 86400	IN	AAAA	2a00:f826:8:2::195
+ns31.de.dns.opennic.glue. 86400	IN	A	195.10.195.195
+ns34.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, DE"
+ns34.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns34.de.dns.opennic.glue. 86400	IN	A	130.61.69.123
+ns7.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, 02, DE"
+ns7.de.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Frankfurt, 02, DE"
+ns7.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns7.de.dns.opennic.glue. 86400	IN	AAAA	2a00:f826:8:1::254
+ns7.de.dns.opennic.glue. 86400	IN	A	94.247.43.254
+ns8.de.dns.opennic.glue. 86400	IN	LOC	49 40 59.990 N 10 31 59.988 E 0.00m 0.00m 100m 10m
+ns8.de.dns.opennic.glue. 86400	IN	AAAA	2a00:f826:8:2::195
+ns8.de.dns.opennic.glue. 86400	IN	A	195.10.195.195
+ns8.de.dns.opennic.glue. 86400	IN	TXT	"Location: Frankfurt, 02, DE"
+ns8.de.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Frankfurt, 02, DE"
+ns9.de.dns.opennic.glue. 86400	IN	TXT	"Location: Remscheid, 07, DE"
+ns9.de.dns.opennic.glue. 86400	IN	LOC	51 10 47.383 N 7 11 33.000 E 0.00m 0.00m 100m 10m
+ns9.de.dns.opennic.glue. 86400	IN	AAAA	2a01:4f8:200:30f5::201
+ns9.de.dns.opennic.glue. 86400	IN	A	144.76.157.242
+ns1.dk.dns.opennic.glue. 86400	IN	TXT	"Location: Vejle, 21, DK"
+ns1.dk.dns.opennic.glue. 86400	IN	LOC	55 42 33.374 N 9 32 8.519 E 0.00m 0.00m 100m 10m
+ns1.dk.dns.opennic.glue. 86400	IN	A	128.76.152.2
+ns3.fi.dns.opennic.glue. 86400	IN	TXT	"Location: Helsinki, 01, FI"
+ns3.fi.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Helsinki, 01, FI"
+ns3.fi.dns.opennic.glue. 86400	IN	LOC	60 10 10.277 N 24 56 7.619 E 0.00m 0.00m 100m 10m
+ns3.fi.dns.opennic.glue. 86400	IN	A	95.217.190.236
+ns4.fi.dns.opennic.glue. 86400	IN	TXT	"Location: Helsinki, 01, FI"
+ns4.fi.dns.opennic.glue. 86400	IN	LOC	60 10 10.277 N 24 56 7.619 E 0.00m 0.00m 100m 10m
+ns4.fi.dns.opennic.glue. 86400	IN	AAAA	2a01:4f9:4b:39ea::301
+ns4.fi.dns.opennic.glue. 86400	IN	A	95.217.229.211
+ns5.fi.dns.opennic.glue. 86400	IN	TXT	"Location: Helsinki, 01, FI"
+ns5.fi.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Helsinki, 01, FI"
+ns5.fi.dns.opennic.glue. 86400	IN	LOC	60 10 10.277 N 24 56 7.619 E 0.00m 0.00m 100m 10m
+ns5.fi.dns.opennic.glue. 86400	IN	AAAA	2a01:4f9:2b:1305::2
+ns5.fi.dns.opennic.glue. 86400	IN	A	95.216.99.249
+ns1.fr.dns.opennic.glue. 86400	IN	TXT	"Location: Paris, 11, FR"
+ns1.fr.dns.opennic.glue. 86400	IN	LOC	48 51 12.272 N 2 20 55.680 E 0.00m 0.00m 100m 10m
+ns1.fr.dns.opennic.glue. 86400	IN	A	51.158.108.203
+ns2.fr.dns.opennic.glue. 86400	IN	TXT	"Location: Strasbourg, 67, FR"
+ns2.fr.dns.opennic.glue. 86400	IN	LOC	48 35 2.110 N 7 44 43.908 E 0.00m 0.00m 100m 10m
+ns2.fr.dns.opennic.glue. 86400	IN	AAAA	2001:41d0:404:200::976
+ns2.fr.dns.opennic.glue. 86400	IN	A	51.77.149.139
+ns8.fr.dns.opennic.glue. 86400	IN	TXT	"Location: Paris, France"
+ns8.fr.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Paris, France"
+ns8.fr.dns.opennic.glue. 86400	IN	TXT	"DNSCrypt-Server: ns8.fr.dns.opennic.glue"
+ns8.fr.dns.opennic.glue. 86400	IN	TXT	"DNSCrypt-key: A9D6:323A:4F25:8009:2619:7515:02CE:231E:1F76:D9DE:776C:87C6:BBB2:8A0E:FFDB:0E4E"
+ns8.fr.dns.opennic.glue. 86400	IN	LOC	48 51 12.272 N 2 20 55.680 E 0.00m 0.00m 100m 10m
+ns8.fr.dns.opennic.glue. 86400	IN	AAAA	2001:470:1f15:b80::53
+ns8.fr.dns.opennic.glue. 86400	IN	A	151.80.222.79
+ns9.fr.dns.opennic.glue. 86400	IN	TXT	"Location: Gravelines, 32, FR"
+ns9.fr.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Gravelines, 32, FR"
+ns9.fr.dns.opennic.glue. 86400	IN	LOC	50 59 11.440 N 2 7 41.052 E 0.00m 0.00m 100m 10m
+ns9.fr.dns.opennic.glue. 86400	IN	A	51.178.92.105
+ns1.esy.gr.dns.opennic.glue. 86400 IN	TXT	"Location: Thessaloniki, ESYE12, GR"
+ns1.esy.gr.dns.opennic.glue. 86400 IN	LOC	40 38 36.989 N 22 55 51.098 E 0.00m 0.00m 100m 10m
+ns1.esy.gr.dns.opennic.glue. 86400 IN	AAAA	2a03:f80:30:192:71:166:92:1
+ns1.esy.gr.dns.opennic.glue. 86400 IN	A	192.71.166.92
+ns1.nl.dns.opennic.glue. 86400	IN	TXT	"Location: Eygelshoven, Limburg, NL"
+ns1.nl.dns.opennic.glue. 86400	IN	LOC	50 53 38.184 N 6 3 31.320 E 0.00m 0.00m 100m 10m
+ns1.nl.dns.opennic.glue. 86400	IN	AAAA	2a0d:2146:2404::1069
+ns1.nl.dns.opennic.glue. 86400	IN	A	80.78.132.79
+ns1.no.dns.opennic.glue. 86400	IN	TXT	"Location: Sandefjord, 20, NO"
+ns1.no.dns.opennic.glue. 86400	IN	LOC	59 7 52.247 N 10 12 59.940 E 0.00m 0.00m 100m 10m
+ns1.no.dns.opennic.glue. 86400	IN	AAAA	2a03:94e0:1804::1
+ns1.no.dns.opennic.glue. 86400	IN	A	185.181.61.24
+ns1.pl.dns.opennic.glue. 86400	IN	TXT	"Location: Olsztyn, 85, PL"
+ns1.pl.dns.opennic.glue. 86400	IN	LOC	53 46 47.817 N 20 29 38.975 E 0.00m 0.00m 100m 10m
+ns1.pl.dns.opennic.glue. 86400	IN	A	188.68.231.82
+ns4.pl.dns.opennic.glue. 86400	IN	TXT	"Location: Ozarow Mazowiecki, PL"
+ns4.pl.dns.opennic.glue. 86400	IN	TXT	"DNSCrypt-Server: ns4.pl.dns.opennic.glue"
+ns4.pl.dns.opennic.glue. 86400	IN	TXT	"Log policy: (Anonymous) Ozarow Mazowiecki, PL"
+ns4.pl.dns.opennic.glue. 86400	IN	TXT	"DNSCrypt-key: 418E:FD37:2DC9:4F6D:BCD9:A202:CD67:F9E7:4452:B426:51E1:F068:CC56:5C06:8411:0590"
+ns4.pl.dns.opennic.glue. 86400	IN	LOC	52 12 27.600 N 20 48 29.300 E 0.00m 0.00m 0.00m 0.00m
+ns4.pl.dns.opennic.glue. 86400	IN	AAAA	2001:470:71:6dc::53
+ns4.pl.dns.opennic.glue. 86400	IN	A	51.83.172.84
+ns5.ru.dns.opennic.glue. 86400	IN	TXT	"Location: Moscow, Russia"
+ns5.ru.dns.opennic.glue. 86400	IN	LOC	55 45 20.974 N 37 37 2.280 E 151.79m 100m 100m 10m
+ns5.ru.dns.opennic.glue. 86400	IN	AAAA	2001:67c:13e4:1::37
+ns5.ru.dns.opennic.glue. 86400	IN	A	91.217.137.37
+ns4.ca.us.dns.opennic.glue. 86400 IN	TXT	"Location: San Francisco, CA, US"
+ns4.ca.us.dns.opennic.glue. 86400 IN	LOC	37 46 29.745 N 122 25 9.906 W 0.00m 0.00m 100m 10m
+ns4.ca.us.dns.opennic.glue. 86400 IN	A	147.182.243.49
+ns1.co.us.dns.opennic.glue. 86400 IN	TXT	"Location: Longmont, CO, USA"
+ns1.co.us.dns.opennic.glue. 86400 IN	LOC	40 11 29.760 N 105 6 27.720 W 0.00m 1m 10000m 10m
+ns1.co.us.dns.opennic.glue. 86400 IN	A	63.231.92.27
+ns2.fl.us.dns.opennic.glue. 86400 IN	TXT	"Location: Miami, FL, US"
+ns2.fl.us.dns.opennic.glue. 86400 IN	LOC	25 46 27.369 N 80 11 37.165 W 0.00m 0.00m 100m 10m
+ns2.fl.us.dns.opennic.glue. 86400 IN	A	82.117.252.6
+ns1.mi.us.dns.opennic.glue. 86400 IN	TXT	"Location: Ann Arbor, MI, USA"
+ns1.mi.us.dns.opennic.glue. 86400 IN	TXT	"Log policy: (Anonymous) Ann Arbor, MI, USA"
+ns1.mi.us.dns.opennic.glue. 86400 IN	LOC	42 16 50.972 N 83 44 34.936 W 263.49m 5m 100m 10m
+ns1.mi.us.dns.opennic.glue. 86400 IN	A	35.211.96.150
+ns2.mo.us.dns.opennic.glue. 86400 IN	TXT	"Location: Kansas City, MO, US"
+ns2.mo.us.dns.opennic.glue. 86400 IN	LOC	39 5 59.033 N 94 34 42.843 W 0.00m 0.00m 100m 10m
+ns2.mo.us.dns.opennic.glue. 86400 IN	AAAA	2001:550:9601::4
+ns2.mo.us.dns.opennic.glue. 86400 IN	A	38.103.195.4
+ns4.nj.us.dns.opennic.glue. 86400 IN	TXT	"Location: Piscataway, NJ, USA"
+ns4.nj.us.dns.opennic.glue. 86400 IN	LOC	40 33 17.593 N 74 27 51.430 W 19.99m 5m 100m 10m
+ns4.nj.us.dns.opennic.glue. 86400 IN	A	192.3.165.37
+ns1.ny.us.dns.opennic.glue. 86400 IN	TXT	"Location: New York City, NY, US"
+ns1.ny.us.dns.opennic.glue. 86400 IN	LOC	40 42 51.378 N 74 0 21.478 W 0.00m 0.00m 100m 10m
+ns1.ny.us.dns.opennic.glue. 86400 IN	AAAA	2604:a880:0:1010::b:4001
+ns1.ny.us.dns.opennic.glue. 86400 IN	A	162.243.19.47

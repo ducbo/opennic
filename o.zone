@@ -1,0 +1,4 @@
+o.			86400	IN	SOA	dns1-us-ny1.nablahost.net. jonah.triplebit.net. 2021080301 28800 7200 864000 86400
+o.			86400	IN	NS	dns1-lu-rs1.aragon.ventures.
+o.			86400	IN	NS	dns1-us-nv1.aragon.ventures.
+o.			86400	IN	NS	dns1-us-ny1.nablahost.net.
